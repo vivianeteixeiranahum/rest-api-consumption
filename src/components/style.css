@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.background{
+    background-color: rgb(229, 243, 247);
+}
